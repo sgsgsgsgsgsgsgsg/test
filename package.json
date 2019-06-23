@@ -1,0 +1,19 @@
+{
+  "name": "git-xp-test",
+  "version": "1.0.0",
+  "description": "one one one one one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgsgsgsgsgsgsgsg/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgsgsgsgsgsgsgsg/test/issues"
+  },
+  "homepage": "https://github.com/sgsgsgsgsgsgsgsg/test#readme"
+}
