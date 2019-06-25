@@ -4,11 +4,6 @@ asd
 as
 das
 dd
-asd
-a
-d
-asd
-as
 fdf
 dddgdf
 g
